@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Light-Dark-Mode-REACT-PRJ/static/css/main.8a6afb56.css",
-    "main.js": "/Light-Dark-Mode-REACT-PRJ/static/js/main.53384490.js",
+    "main.js": "/Light-Dark-Mode-REACT-PRJ/static/js/main.5e46665e.js",
     "static/js/453.50eafe93.chunk.js": "/Light-Dark-Mode-REACT-PRJ/static/js/453.50eafe93.chunk.js",
     "static/media/reactjs-icon 1.svg": "/Light-Dark-Mode-REACT-PRJ/static/media/reactjs-icon 1.5e39ae5f1393de76f33853b27c7dab68.svg",
     "static/media/reactjs-icon 2.svg": "/Light-Dark-Mode-REACT-PRJ/static/media/reactjs-icon 2.81541b89870465607001.svg",
     "static/media/reactjs-icon 3.svg": "/Light-Dark-Mode-REACT-PRJ/static/media/reactjs-icon 3.816634d4e27f9024f2a7.svg",
     "index.html": "/Light-Dark-Mode-REACT-PRJ/index.html",
     "main.8a6afb56.css.map": "/Light-Dark-Mode-REACT-PRJ/static/css/main.8a6afb56.css.map",
-    "main.53384490.js.map": "/Light-Dark-Mode-REACT-PRJ/static/js/main.53384490.js.map",
+    "main.5e46665e.js.map": "/Light-Dark-Mode-REACT-PRJ/static/js/main.5e46665e.js.map",
     "453.50eafe93.chunk.js.map": "/Light-Dark-Mode-REACT-PRJ/static/js/453.50eafe93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a6afb56.css",
-    "static/js/main.53384490.js"
+    "static/js/main.5e46665e.js"
   ]
 }
